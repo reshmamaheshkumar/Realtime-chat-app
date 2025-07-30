@@ -38,9 +38,20 @@ Overall, the Realtime Chat App represents a foundational, beginner-friendly impl
 
 ## 📸 Output Screenshots
 
-### 💬 Realtime Chat UI Preview
+### 🏠 Home Page – Join Chat Screen
+<img width="800" alt="Home Page Screenshot" src="https://github.com/user-attachments/assets/cf7e0741-8b9b-4fdc-ba81-d30b2c06f7fe" />
 
+---
 
+### 💬 Live Chat in Action – User Sending Messages
+<img width="800" alt="Chat Messages Screenshot" src="https://github.com/user-attachments/assets/d02a6e0f-7c0d-460a-9d64-03fdcd7f7e36" />
+
+---
+
+### ✍️ Typing Indicator & System Notifications  
+<img width="800" alt="Typing & Notification Screenshot" src="https://github.com/user-attachments/assets/7efb667a-4e90-4348-a100-dfed1118f0d5" />
+
+---
 
 ## 🧠 Features
 
